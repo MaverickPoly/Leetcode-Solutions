@@ -29,6 +29,9 @@ def main():
 
             index = extensions.index(extension)
             language = languages[index]
+
+            os.makedirs(language, exist_ok=True)
+
             destination = os.path.join(".", language, entry)
 
             source_dir = os.path.abspath(f"{entry}")
