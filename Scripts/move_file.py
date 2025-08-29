@@ -6,6 +6,7 @@ targets = {
     "Go": ".go",
     "C": ".c",
     "C++": ".cpp",
+    "Rust": ".rs"
     # "Dart": ".dart",
     # "PHP": ".php",
 }
