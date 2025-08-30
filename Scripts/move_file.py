@@ -8,8 +8,10 @@ targets = {
     "C++": ".cpp",
     "Rust": ".rs",
     "Java": ".java",
-    # "Dart": ".dart",
-    # "PHP": ".php",
+    "Kotlin": ".kt",
+    "JavaScript": ".js",
+    "PHP": ".php",
+    "Ruby": ".rb",
 }
 
 def main():
