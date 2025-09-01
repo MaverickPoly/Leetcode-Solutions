@@ -12,6 +12,7 @@ targets = {
     "JavaScript": ".js",
     "PHP": ".php",
     "Ruby": ".rb",
+    "TypeScript": ".ts",
 }
 
 def main():
