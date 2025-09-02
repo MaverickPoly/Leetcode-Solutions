@@ -5,6 +5,7 @@ targets = {
     "Python": ".py",
     "Go": ".go",
     "C": ".c",
+    "C#": ".cs",
     "C++": ".cpp",
     "Rust": ".rs",
     "Java": ".java",
